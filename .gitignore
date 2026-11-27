@@ -1,0 +1,44 @@
+# Unity-generated data and local editor state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Aa]ssets/AssetStoreTools*
+
+# Generated IDE files
+/.vs/
+/.vscode/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.unityproj
+*.user
+*.userprefs
+*.suo
+*.pidb
+*.booproj
+
+# Build artifacts and crash reports
+*.apk
+*.aab
+*.unitypackage
+*.app
+sysinfo.txt
+crashlytics-build.properties
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/
+
+# Local OS files and signing credentials
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.keystore
+*.jks
+*.pfx
